@@ -68,7 +68,7 @@ I'm a Computer Science Specialist student at the **University of Toronto**, curr
 
 ## 🚀 Featured Projects
 
-### [TurboType](https://github.com/TorynC/turbotype)
+### [TurboType]
 **Mobile Type Racing Game** | *Kotlin, Firebase, Android*
 
 A competitive typing app with real-time multiplayer races, progress tracking, and global leaderboards.
@@ -77,7 +77,7 @@ A competitive typing app with real-time multiplayer races, progress tracking, an
 - 🏆 Global leaderboards with secure Firebase Authentication
 - 🎯 Clean architecture following Android best practices
 
-### [COBWeb - AI Topic Explorer](https://github.com/TorynC/cobweb)
+### [COBWeb - AI Topic Explorer]
 **UofTHacks 2025 Project** | *React, Node.js, Gemini API, CSS*
 
 An AI-powered topic explorer that generates curated article links with interactive bubble visualizations.
@@ -86,7 +86,7 @@ An AI-powered topic explorer that generates curated article links with interacti
 - ⚡ Sub-2-second response time with scalable Node.js backend
 - 🔍 Interactive exploration of interconnected topics
 
-### [Unisphere Platform](https://unisphere.com)
+### [Unisphere Platform](https://unisphere.my)
 **EdTech Platform** | *Next.js, TypeScript, Supabase, Stripe*
 
 Full-featured tutoring platform serving 100+ students with real-time video calling and automated payment processing.
@@ -95,7 +95,7 @@ Full-featured tutoring platform serving 100+ students with real-time video calli
 - 🔄 Automated credit provisioning reducing manual work by 80%
 - 🚀 CI/CD pipeline with automated testing and deployment
 
-### [ALPHV Locum Platform](https://github.com/TorynC/locum-platform)
+### [ALPHV Locum Platform]
 **Healthcare Job Matching** | *React, Next.js, Node.js, PostgreSQL*
 
 Full-stack platform connecting 100+ clinics with doctors for locum positions.
@@ -185,9 +185,8 @@ Full-stack platform connecting 100+ clinics with doctors for locum positions.
 
 ## 💡 Fun Facts
 
-- 🎮 Built a competitive typing game with real-time multiplayer
-- ⚡ Reduced hosting costs by 80% through infrastructure optimization
-- 🤖 Won at UofTHacks 2025 with AI topic explorer
+- 🎮 Favorite game is Read Dead Redemption 2
+- ⚡ Love playing basketball
 - 📱 Love building cross-platform mobile apps
 - 🚀 Passionate about real-time systems and scalable architecture
 
