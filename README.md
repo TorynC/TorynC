@@ -192,14 +192,4 @@ Full-stack platform connecting 100+ clinics with doctors for locum positions.
 
 ---
 
-<div align="center">
-  
-  ### 💭 *"First, solve the problem. Then, write the code."* – John Johnson
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=TorynC&color=blueviolet&style=for-the-badge)
-  
-</div>
-
----
-
 ⭐️ From [TorynC](https://github.com/TorynC)
