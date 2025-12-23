@@ -10,9 +10,9 @@
 
 ## 🎓 About Me
 
-I'm a Computer Science Specialist student at the **University of Toronto**, currently serving as **CTO at Unisphere** where I lead engineering for a platform serving 100+ students. I'm passionate about building scalable, user-centric applications and exploring the intersection of AI and full-stack development.
+I'm a Computer Science Specialist student at the **University of Toronto**, I'm passionate about building scalable, user-centric applications and exploring the intersection of AI and full-stack development.
 
-- 🚀 **CTO** at Unisphere - Leading full engineering lifecycle and platform development
+- 🚀 **Lead Developer** at Unisphere - Leading full engineering lifecycle and platform development
 - 💻 **Software Developer** at UTMIST - Building React Native healthcare solutions
 - 🔧 Previously: **Software Engineering Intern** at ALPHV Technologies
 - 🎯 Focus areas: **Full-stack development**, **real-time systems**, **mobile apps**
@@ -68,7 +68,7 @@ I'm a Computer Science Specialist student at the **University of Toronto**, curr
 
 ## 🚀 Featured Projects
 
-### [TurboType]
+### [TurboType](https://github.com/TorynC/Turbotype)
 **Mobile Type Racing Game** | *Kotlin, Firebase, Android*
 
 A competitive typing app with real-time multiplayer races, progress tracking, and global leaderboards.
@@ -77,7 +77,7 @@ A competitive typing app with real-time multiplayer races, progress tracking, an
 - 🏆 Global leaderboards with secure Firebase Authentication
 - 🎯 Clean architecture following Android best practices
 
-### [COBWeb - AI Topic Explorer]
+### [COBWeb](https://github.com/TorynC/COBweb)
 **UofTHacks 2025 Project** | *React, Node.js, Gemini API, CSS*
 
 An AI-powered topic explorer that generates curated article links with interactive bubble visualizations.
@@ -95,7 +95,7 @@ Full-featured tutoring platform serving 100+ students with real-time video calli
 - 🔄 Automated credit provisioning reducing manual work by 80%
 - 🚀 CI/CD pipeline with automated testing and deployment
 
-### [ALPHV Locum Platform]
+### [ALPHV Locum Platform](https://portal.locumlah.com/)
 **Healthcare Job Matching** | *React, Next.js, Node.js, PostgreSQL*
 
 Full-stack platform connecting 100+ clinics with doctors for locum positions.
@@ -118,56 +118,12 @@ Full-stack platform connecting 100+ clinics with doctors for locum positions.
   
 </div>
 
----
-
-## 💼 Experience
-
-### Chief Technology Officer | Unisphere
-*Sep 2025 - Present*
-- Leading full engineering lifecycle for platform serving 100+ students
-- Developed payment system with Stripe API, reducing manual work by 80%
-- Integrated real-time video calling with Agora SDK
-- Managing code quality, releases, and feature planning
-
-### Software Developer | UTMIST
-*Sep 2025 - Present*
-- Building React Native healthcare app connecting care seekers with support workers
-- Implemented session management reducing matching time by 50%
-- Backend development with Node.js, Express.js, and Firebase
-- Cross-platform testing with Expo Go for iOS and Android
-
-### Assistant VP of Technology & Operations | UTSRI
-*Jan 2025 - Present*
-- Developed official UTSRI website with Next.js and TypeScript
-- Set up CI/CD pipelines reducing deployment errors by 30%
-- Leading team of junior developers and providing technical mentorship
-- Managed operations for case competition with 200+ attendees
-
-### Software Engineering Intern | ALPHV Technologies
-*Jun 2025 - Aug 2025*
-- Built full-stack locum platform serving 100+ clinics and doctors
-- Designed RESTful APIs with Express.js and PostgreSQL
-- Optimized infrastructure reducing hosting costs by 80%
-- Developed responsive frontend with React and Next.js
-
----
-
 ## 📚 Currently Learning
 
 - Advanced Operating Systems concepts
 - Distributed systems architecture
 - Mobile app optimization techniques
 - Cloud-native development patterns
-
----
-
-## 🏆 Achievements
-
-- 🎓 Computer Science Specialist (ASIP Co-op Program) at UofT
-- 💼 CTO at Unisphere - Leading engineering for 100+ students
-- 🏥 Built healthcare platform reducing matching time by 50%
-- 💰 Optimized infrastructure reducing costs by 80%
-- 🤖 Created AI explorer with 90% relevancy rate
 
 ---
 
